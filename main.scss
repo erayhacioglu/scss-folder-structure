@@ -1,0 +1,26 @@
+/*abstracts*/
+@import './abstracts/variables.scss';
+@import './abstracts/mixins.scss';
+@import './abstracts/functions.scss';
+/*base*/
+@import './base/general.scss';
+@import './base/reset.scss';
+/*components*/
+@import './components/buttons.scss';
+@import './components/carousel.scss';
+@import './components/dropdown.scss';
+/*layout*/
+@import './layout/header.scss';
+@import './layout/footer.scss';
+@import './layout/forms.scss';
+@import './layout/sidebar.scss';
+/*pages*/
+@import './pages/home.scss';
+@import './pages/aboutus.scss';
+@import './pages/contact.scss';
+/*themes*/
+@import './themes/theme.scss';
+@import './themes/admin.scss';
+@import './themes/darktheme.scss';
+/*vendors*/
+@import './vendors/bootstrap.scss';
